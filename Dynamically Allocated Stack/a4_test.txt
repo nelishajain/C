@@ -1,0 +1,56 @@
+push o
+push +
+push X
+pop
+push -
+pop
+push ;
+pop
+pop
+pop
+push h
+push d
+push ,
+pop
+pop
+push q
+push m
+push 9
+push g
+push 2
+push |
+pop
+push /
+push m
+push r
+push h
+pop
+pop
+push o
+push c
+push ?
+push r
+pop
+pop
+push .
+pop
+push .
+push l
+push a
+push _
+pop
+pop
+push r
+push /
+pop
+push u
+push y
+push s
+push :
+pop
+pop
+push n
+push i
+push t
+push s
+pop
