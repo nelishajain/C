@@ -1,2 +1,2 @@
 # C
-These are the projects I did while taking intro to C course.
+These are those projects which i have done while taking intro to C course.
